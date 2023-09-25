@@ -1,0 +1,49 @@
+/* Generales para todas las páginas de recetas */
+body {
+    background-color: #2a2a2a;
+    color: #eee;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 1.6;
+  }
+  
+  .container {
+    width: 50%;
+    margin: auto;
+  }
+  
+  h1 {
+    color: #ff6347;
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  ol {
+    margin-bottom: 20px;
+  }
+  
